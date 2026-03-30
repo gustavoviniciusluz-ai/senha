@@ -68,3 +68,10 @@ nav ul a:hover{
     background-color: rgba(255, 255, 255, 0.15);
     transform: translatey(-2px);
 }
+
+/*hero*/
+.hero{
+    background: linear-gradient((to right,rgba(13, 71, 161, 0.88) rgba(25, 188, 210,0.82)),;
+    
+
+}
